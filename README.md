@@ -4,7 +4,7 @@
 Since my thesis is related to film and color, I am interested in exploring datasets related to movies, such as metadata or image/color analysis.
 
 Data: Movie datasets (IMDb)
-Type: Mixed (text + numerical + possibly image data)
+Type: Mixed (text + numerical + possibly image data)<b>
 Size: LARGE
 Pre-processing: Cleaning text data, extracting relevant features, computing color distributions from images
 
