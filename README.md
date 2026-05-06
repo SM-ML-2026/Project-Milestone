@@ -5,15 +5,7 @@ Since my thesis is related to film and color, I am interested in exploring datas
 
 - Data: Movie datasets (IMDb, Wikipedia)
 - Type: Mixed (text + numerical + image data)
-- Pre-processing: Cleaning text data, extracting relevant features, computing color distributions from images
 
-Possible questions:
-1. How does color usage vary across films or time periods?
-2. Are there patterns between genre and color?
-3. Can we cluster films based on visual or descriptive features?
-4. Has the color become brighter or darker over the years?
-
-## Modeling Preparation Plan
 
 ### 1) What format should the data use before modeling?
 
