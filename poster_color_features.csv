@@ -1,0 +1,79 @@
+Movie,Year,Genre,PosterURL,R,G,B,HEX,Brightness
+3 Idiots,2009.0,"Drama, Comedy",https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg,235,212,82,#ebd452,204.05700000000002
+Nanban,2012.0,"Comedy, Drama",https://image.tmdb.org/t/p/w500/dmhPnvYQVtx4xS1dkA9trCpQXvY.jpg,223,95,58,#df5f3a,129.05399999999997
+3 Idiotas,2017.0,"Family, Comedy",https://image.tmdb.org/t/p/w500/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg,116,99,83,#746353,102.259
+Pyar Jhukta Nahin,1985.0,Unknown,https://image.tmdb.org/t/p/w500/oV7tPeC8f5KEPJpccMejRNtITmP.jpg,51,36,54,#332436,42.537
+Nee Bareda Kadambari,1985.0,"Drama, Romance",https://image.tmdb.org/t/p/w500/fqWOLyiLy8R77jL8ZZ8MUSwQcUD.jpg,237,228,232,#ede4e8,231.147
+Arth - The Destination,2017.0,"Drama, Music, Romance",https://image.tmdb.org/t/p/w500/3yqIhulVuWYy3sXLSzidmtZ9ZmH.jpg,18,1,2,#120102,6.196999999999999
+The Absent-Minded Professor,1961.0,"Comedy, Family, Science Fiction",https://image.tmdb.org/t/p/w500/gCnuDDqoyaBdeeItQ4BjKtYpzF6.jpg,106,110,116,#6a6e74,109.488
+Flubber,1997.0,"Comedy, Family, Science Fiction",https://image.tmdb.org/t/p/w500/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg,6,155,51,#069b33,98.59299999999999
+Adventures in Babysitting,1987.0,Comedy,https://image.tmdb.org/t/p/w500/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg,14,11,19,#0e0b13,12.809000000000001
+Adventures in Babysitting,2016.0,"Comedy, Family, Adventure",https://image.tmdb.org/t/p/w500/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg,24,13,20,#180d14,17.087
+Mann,1999.0,"Drama, Romance",https://image.tmdb.org/t/p/w500/nbn9Hxj7GEBxrZ8biAfIjhYSs1Y.jpg,33,33,32,#212120,32.886
+Agneepath,1990.0,"Action, Crime, Drama",https://image.tmdb.org/t/p/w500/kKCWrcIi6pAXNvPnC1LWtV4hB8u.jpg,7,5,4,#070504,5.484
+Agneepath,2012.0,"Action, Crime, Drama",https://image.tmdb.org/t/p/w500/xO9sErs0c3XMzh8O34ygQWcENTj.jpg,46,10,5,#2e0a05,20.194
+Aladdin,1992.0,"Animation, Family, Adventure, Fantasy, Romance",https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg,34,53,112,#223570,54.045
+Aladdin,2019.0,"Adventure, Fantasy, Romance, Family",https://image.tmdb.org/t/p/w500/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg,38,49,107,#26316b,52.323
+Alfie,1966.0,"Comedy, Drama, Romance",https://image.tmdb.org/t/p/w500/tPUqgfGMkZazRZ1UO41j2Fiib5C.jpg,253,253,252,#fdfdfc,252.886
+Alfie,2004.0,"Comedy, Drama, Romance",https://image.tmdb.org/t/p/w500/jXJdaGy07JqYFHGsG2GKZBjTa2k.jpg,237,137,30,#ed891e,154.70199999999997
+The Amityville Horror,1979.0,Horror,https://image.tmdb.org/t/p/w500/7VMscq0659xKmcXzd86de1DGV4W.jpg,16,1,1,#100101,5.484999999999999
+The Amityville Horror,2005.0,Horror,https://image.tmdb.org/t/p/w500/4D246dpe7yy2GvHI2IbpeqkUXry.jpg,74,23,19,#4a1713,37.79299999999999
+And Soon the Darkness,1970.0,"Mystery, Thriller, Crime",https://image.tmdb.org/t/p/w500/n6p6JmnIACFI5FVy9jUNmEe5dOE.jpg,56,124,85,#387c55,99.222
+And Soon the Darkness,2010.0,"Mystery, Thriller",https://image.tmdb.org/t/p/w500/8k7BV9YRKTNXdj7wKiRGncNfwAh.jpg,9,3,3,#090303,4.794
+Annie,1982.0,"Comedy, Drama, Family",https://image.tmdb.org/t/p/w500/xopqD99S1GqQOG8UAeSElsX9MeP.jpg,254,254,254,#fefefe,253.99999999999997
+Annie,1999.0,"Music, Family, Comedy",https://image.tmdb.org/t/p/w500/y0XWZC1A7PbWf1gwmvbvhY9uWM2.jpg,253,252,252,#fdfcfc,252.29899999999998
+Annie,2014.0,"Comedy, Drama, Family",https://image.tmdb.org/t/p/w500/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg,221,29,25,#dd1d19,85.95199999999998
+Anthony Zimmer,2005.0,"Thriller, Crime, Drama, Romance",https://image.tmdb.org/t/p/w500/mMBJnGPOr5lr7Dnyr3O4sMgpKPM.jpg,2,1,1,#020101,1.2990000000000002
+The Tourist,2010.0,"Action, Thriller, Romance",https://image.tmdb.org/t/p/w500/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg,248,248,246,#f8f8f6,247.77200000000002
+Antropophagus,1980.0,Horror,https://image.tmdb.org/t/p/w500/k3y6P2tlbx8Cjr2Bmyqs7AFh4tW.jpg,82,48,36,#523024,56.798
+Anthropophagous 2000,1999.0,"Horror, Crime, Thriller",https://image.tmdb.org/t/p/w500/169Pjyb1VZLWPn1gugr3mewi35M.jpg,39,34,37,#272225,35.837
+Anything for Her,2008.0,"Drama, Thriller",https://image.tmdb.org/t/p/w500/jYqFLb9d2dfJjIix7PCKoDqdbw6.jpg,233,242,250,#e9f2fa,240.221
+The Next Three Days,2010.0,"Romance, Drama, Thriller, Crime",https://image.tmdb.org/t/p/w500/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg,6,11,19,#060b13,10.417
+Wicker Park,2004.0,"Drama, Mystery, Romance, Thriller",https://image.tmdb.org/t/p/w500/gRKEluSpV1wBrZVTvLLaCSkzqcf.jpg,115,39,13,#73270d,58.75999999999999
+April Fool's Day,1986.0,"Horror, Mystery",https://image.tmdb.org/t/p/w500/zNx2tNRzRyPsBSHX1VF2c7U0UyW.jpg,228,58,23,#e43a17,104.83999999999999
+April Fool's Day,2008.0,Horror,https://image.tmdb.org/t/p/w500/bdssdn6dNC2hGzc2j7IgQT2VDjQ.jpg,20,12,20,#140c14,15.303999999999998
+The Arena,1974.0,"Action, Adventure",https://image.tmdb.org/t/p/w500/rqQlMxVJWPwYM74IhEqDane2FSX.jpg,254,253,252,#fefdfc,253.185
+The Arena,2001.0,Action,https://image.tmdb.org/t/p/w500/jviz09xUUttyS59vIi6VZlSy0FT.jpg,51,44,43,#332c2b,45.979
+Arthur,1981.0,"Comedy, Drama, Romance",https://image.tmdb.org/t/p/w500/m8yOFRDVZPxtsr4D2hVdzls6q6t.jpg,2,1,1,#020101,1.2990000000000002
+Arthur,2011.0,"Comedy, Romance",https://image.tmdb.org/t/p/w500/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg,17,9,11,#11090b,11.62
+Assault on Precinct 13,1976.0,"Thriller, Action, Crime",https://image.tmdb.org/t/p/w500/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg,210,32,39,#d22027,86.02
+Assault on Precinct 13,2005.0,"Thriller, Action, Adventure, Crime",https://image.tmdb.org/t/p/w500/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg,23,23,21,#171715,22.772
+Autograph,2004.0,"Romance, Drama",https://image.tmdb.org/t/p/w500/icy3xHF6LcHSys9RxNAuI4xyAW1.jpg,173,212,17,#add411,178.10899999999998
+Naa Autograph,2004.0,"Family, Romance, Drama",https://image.tmdb.org/t/p/w500/s9iOis3DNbuyADpKCqpL9MAH8jK.jpg,98,87,79,#62574f,89.377
+The Bad News Bears,1976.0,"Family, Comedy",https://image.tmdb.org/t/p/w500/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg,63,81,47,#3f512f,71.742
+Bad News Bears,2005.0,Comedy,https://image.tmdb.org/t/p/w500/ja1yrgfYAGmwnridioMY3MV0GDm.jpg,251,251,251,#fbfbfb,250.99999999999997
+The Barefoot Executive,1971.0,"Comedy, Family",https://image.tmdb.org/t/p/w500/l80GlJCOFM6rE2uwiW0EMD6jAPd.jpg,43,34,32,#2b2220,36.463
+The Barefoot Executive,1995.0,"Comedy, Family",https://image.tmdb.org/t/p/w500/r0kbIGAA6v7IyLKRhVguGgMm4pv.jpg,8,29,8,#081d08,20.326999999999998
+Beauty and the Beast,1991.0,"Romance, Family, Animation, Fantasy",https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg,24,71,123,#18477b,62.875
+Beauty and the Beast,2017.0,"Family, Fantasy, Romance",https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg,16,25,41,#101929,24.133
+Bedazzled,1967.0,"Fantasy, Comedy, Romance",https://image.tmdb.org/t/p/w500/4POWJtOXt19PWfO18rHpw5GIQc6.jpg,62,53,145,#3e3591,66.179
+Bedazzled,2000.0,"Fantasy, Comedy, Romance",https://image.tmdb.org/t/p/w500/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg,12,6,6,#0c0606,7.794
+Bedtime Story,1964.0,Comedy,https://image.tmdb.org/t/p/w500/4oN375vg2eJSHZzf9kztiwnu3jP.jpg,246,214,73,#f6d649,207.494
+Dirty Rotten Scoundrels,1988.0,"Comedy, Crime",https://image.tmdb.org/t/p/w500/3176xH21fSetstKpEtAD1giHbyT.jpg,212,205,193,#d4cdc1,205.725
+The Hustle,2019.0,"Comedy, Crime",https://image.tmdb.org/t/p/w500/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg,177,143,58,#b18f3a,143.47599999999997
+Ben Hur,2003.0,"Family, Animation",https://image.tmdb.org/t/p/w500/qyfFPvWEsUA8bo6aIJ3fjBtrM4i.jpg,207,225,229,#cfe1e5,220.07399999999998
+Welcome to Collinwood,2002.0,"Comedy, Crime",https://image.tmdb.org/t/p/w500/7XyvoOopwWwDCWOcItOQiAwm30b.jpg,237,239,241,#edeff1,238.62999999999997
+Big Deal on Madonna Street,1958.0,"Comedy, Crime",https://image.tmdb.org/t/p/w500/f5OxD8Nl0pR3DcYHtYhHRfpsmjl.jpg,232,222,65,#e8de41,207.09199999999998
+Billa,2007.0,"Action, Thriller",https://image.tmdb.org/t/p/w500/wpvEmE3xsb1N3AmLotORbZwrdOR.jpg,242,216,162,#f2d8a2,217.61799999999997
+Billa,2009.0,"Comedy, Drama",https://image.tmdb.org/t/p/w500/nmWKskigmvBow3uOP4RPQOIaUux.jpg,11,5,5,#0b0505,6.794
+Black Christmas,1974.0,"Horror, Mystery, Crime",https://image.tmdb.org/t/p/w500/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg,12,11,13,#0c0b0d,11.527
+Black Christmas,2006.0,"Horror, Mystery",https://image.tmdb.org/t/p/w500/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg,8,3,2,#080302,4.380999999999999
+Black Christmas,2019.0,"Horror, Mystery",https://image.tmdb.org/t/p/w500/iMBlUzqwpz9ffbeLsYjyHPp8tn8.jpg,9,5,4,#090504,6.082
+Blazing Saddles,1974.0,"Western, Comedy",https://image.tmdb.org/t/p/w500/xDSrLJcHJpMXISPdl6sPkS5Xbu6.jpg,210,218,219,#d2dadb,215.722
+Paws of Fury: The Legend of Hank,2022.0,"Animation, Adventure, Comedy, Family",https://image.tmdb.org/t/p/w500/wMDUDwAArpfGdtTTZ25SfwngGwt.jpg,72,42,33,#482a21,49.944
+Blind,2011.0,Thriller,https://image.tmdb.org/t/p/w500/mAfgDfAXCXcj5lPR5DUeezFrTGA.jpg,232,227,225,#e8e3e1,228.267
+The Witness,2015.0,Documentary,https://image.tmdb.org/t/p/w500/6dtcCLAsIfQaqrjtLoO3qjF3sDK.jpg,203,201,204,#cbc9cc,201.94
+The Body,2012.0,"Mystery, Thriller, Drama",https://image.tmdb.org/t/p/w500/du9zczcShf4WIuljDR0Aib7AYtX.jpg,2,3,6,#020306,3.043
+The Body,2019.0,"Thriller, Mystery",https://image.tmdb.org/t/p/w500/ceEmtlyvbJh1khLpSkPUKAmpPA7.jpg,7,13,13,#070d0d,11.206
+La bonne année,1973.0,"Comedy, Crime, Drama, Romance",https://image.tmdb.org/t/p/w500/3JdSrp8qV1LhYIXKONT5iP4i4LV.jpg,252,253,251,#fcfdfb,252.47299999999998
+Happy New Year,1987.0,"Comedy, Crime, Romance",https://image.tmdb.org/t/p/w500/4J33Qf5LsFbateO8T9x4uxyabso.jpg,0,0,1,#000001,0.114
+Boudu Saved from Drowning,1932.0,Comedy,https://image.tmdb.org/t/p/w500/hCRUtli9TCrekxSysHJ15QhMk44.jpg,210,85,43,#d2552b,117.587
+Boudu,2005.0,Comedy,https://image.tmdb.org/t/p/w500/givvJ7jorPyQ6nO9lnPx99HsBr4.jpg,28,23,22,#1c1716,24.380999999999997
+Breathless,1960.0,"Drama, Crime",https://image.tmdb.org/t/p/w500/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg,126,174,155,#7eae9b,157.48199999999997
+Breathless,1983.0,"Romance, Drama, Action",https://image.tmdb.org/t/p/w500/ipnsEbOsnQYO0HMrHTyqsO5osUV.jpg,7,5,6,#070506,5.712
+Three on a Spree,1961.0,Comedy,https://image.tmdb.org/t/p/w500/mWnsnNmshZGGOp3WHEzo5uGtSIV.jpg,252,247,248,#fcf7f8,248.60899999999998
+Babai Abbai,1985.0,"Comedy, Romance",https://image.tmdb.org/t/p/w500/iVc5XfNvPWDOqKAlTe3dDZvH9QZ.jpg,94,77,59,#5e4d3b,80.03099999999999
+Maalamaal,1988.0,Comedy,https://image.tmdb.org/t/p/w500/arrvbRbLslmM6XFRFFUNB423P8V.jpg,80,90,103,#505a67,88.492
+Brewster's Millions,1985.0,Comedy,https://image.tmdb.org/t/p/w500/t4p8r8kfB2jHiK8J36XnfSP8cRO.jpg,215,220,217,#d7dcd9,218.16299999999998
+Arunachalam,1997.0,"Action, Drama, Comedy",https://image.tmdb.org/t/p/w500/vplqDhbUk5GMPUosMuQy91NePxv.jpg,151,49,43,#97312b,78.81400000000001
+Hello Mr. Billionaire,2018.0,Comedy,https://image.tmdb.org/t/p/w500/AeAjzra5IvNS1KU7Uxx7ySDb1mW.jpg,37,24,14,#25180e,26.746999999999996
